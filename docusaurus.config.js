@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Standard Operating Procedures',
-                to: '/docs/sops/intro',
+                to: '/docs/category/standard-operating-procedures',
               },
             ],
           },
