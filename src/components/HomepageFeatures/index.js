@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Welcome to Denver',
-    Svg: require('@site/static/img/ZDVb.svg').default,
+  imgSrc: require('@site/static/img/ZDVb.png'),
     description: (
       <>
         This is the website of the Virtual Denver ARTCC (ZDV)
@@ -16,14 +16,10 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+    <div style={{ textAlign: 'center', margin: '0 auto' }}>
+      <img src={FeatureList[0].imgSrc} alt="Denver Logo" className={styles.featureSvg} style={{ maxWidth: '200px', height: 'auto' }} />
+      <h3 style={{ marginTop: '1rem' }}>{title}</h3>
+      <p>{description}</p>
     </div>
   );
 }
@@ -32,11 +28,9 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
+        {FeatureList.map((props, idx) => (
+          <Feature key={idx} {...props} />
+        ))}
       </div>
     </section>
   );
