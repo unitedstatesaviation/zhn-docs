@@ -4,12 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Welcome to Denver',
+    Svg: require('@site/static/img/ZDVb.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This is the website of the Virtual Denver ARTCC (ZDV)
       </>
     ),
   },
@@ -33,10 +32,12 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+        <div className="row" style={{ justifyContent: 'center' }}>
+          <div className="col col--6">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
         </div>
       </div>
     </section>
