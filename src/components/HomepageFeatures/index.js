@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Welcome to Denver',
-    Svg: require('@site/static/img/ZDVb.png').default,
+    Svg: require('@site/static/img/ZDVb.svg').default,
     description: (
       <>
         This is the website of the Virtual Denver ARTCC (ZDV)
