@@ -17,9 +17,13 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div style={{ textAlign: 'center', margin: '0 auto' }}>
-      <img src={FeatureList[0].imgSrc} alt="Denver Logo" className={styles.featureSvg} style={{ maxWidth: '200px', height: 'auto' }} />
-      <h3 style={{ marginTop: '1rem' }}>{title}</h3>
-      <p>{description}</p>
+      <iframe
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSS_G8mqe97wY_PPbUy4rN237WjqZucaO9W3VVDiLQJ7rNtiadhU09jLm9mJ6Do2xobG5sDtURjNVeK/pubhtml?widget=true&amp;headers=false"
+        width="100%"
+        height="600"
+        style={{ border: 'none' }}
+        title="Denver ARTCC Airports"
+      />
     </div>
   );
 }

@@ -91,9 +91,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://charts.zdv.unitedstatesaviation.us',
+            label: 'Charts',
+            position: 'right',
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -108,25 +112,25 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Standard Operating Procedures',
+                to: '/docs/sops/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Other ARTCCs',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Main Website',
+                href: 'https://unitedstatesaviation.us',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Honolulu',
+                href: 'https://honolulu.unitedstatesaviation.us',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Indianapolis',
+                href: 'https://indianapolis.unitedstatesaviation.us',
               },
             ],
           },
@@ -134,17 +138,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/unitedstatesaviation/zdv-c',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Virtual Denver ARTCC. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
