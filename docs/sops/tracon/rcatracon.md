@@ -9,3 +9,4 @@ Rapid City/Ellsworth TRACON's Connect ID is ```20T06```
 
 ## Additional Resources
 [Ellsworth Air Force Base (RCA)](docs/sops/rca.md)
+[Rapid City Regional Airport (RAP)](docs/sops/rap.md)

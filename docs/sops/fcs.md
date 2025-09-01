@@ -15,4 +15,4 @@ Fort Carson's Connect ID is ```20D10```
 Contact Colorado Springs Approach for TRACON services.
 
 ## Additional Resources
-Colorado Springs TRACON
+[Colorado Springs TRACON](/docs/sops/tracon/costracon.md)
