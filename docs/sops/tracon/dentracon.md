@@ -15,3 +15,5 @@ Denver TRACON's Connect ID is ```20T01```
 [Colorado Air and Space Port (CFO)](docs/sops/cfo.md)\
 [Grand Junction Regional Airport (GJT)](docs/sops/gjt.md)\
 [Northern Colorado Regional Airport (FNL)](docs/sops/fnl.md)
+[Pueblo Memorial Airport (PUB)](docs/sops/pub.md)
+[Rocky Mountain Metropolitan Airport (BJC)](docs/sops/bjc.md)
