@@ -13,4 +13,4 @@ Cheyenne's Connect ID is ```20D06```
 |121.9|Cheyenne Ground|
 
 ## Additional Resources
-Cheyenne TRACON
+[Cheyenne TRACON](/docs/sops/tracon/cystracon.md)
