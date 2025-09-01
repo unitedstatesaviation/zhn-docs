@@ -11,5 +11,5 @@ Denver TRACON's Connect ID is ```20T01```
 ## Additional Resources
 [Denver International Airport (DEN)](docs/sops/denver.md)\
 [Buckley SFB (BKF)](docs/sops/bkf.md)\
-[Centennial Airport](docs/sops/apa.md)
-[Colorado Air and Space Port](docs/sops/cfo.md)
+[Centennial Airport (APA)](docs/sops/apa.md)\
+[Colorado Air and Space Port (CFO)](docs/sops/cfo.md)
