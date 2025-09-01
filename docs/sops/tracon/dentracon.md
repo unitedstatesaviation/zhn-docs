@@ -2,6 +2,7 @@
 The Denver TRACON facility provides terminal radar services to Denver International Airport.
 
 ## Positions
+Denver TRACON's Connect ID is ```20T01```
 |Frequency|Callsign|
 |--------|---------|
 |119.3|Denver Approach (North)|
