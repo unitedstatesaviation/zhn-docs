@@ -14,4 +14,4 @@ Casper's Connect ID is ```20D04```
 |121.8|Casper Clearance Delivery|
 
 ## Additional Resources
-Casper TRACON
+[Casper TRACON](/docs/sops/tracon/cprtracon.md)
