@@ -1,7 +1,7 @@
 # Denver Center
 ## Positions
 Denver Center's Connect ID is ```20C```
-Sector 11 is primary
+Sector 17 is primary
 |Frequency|Callsign|
 |---|---|
 |120.475|Denver Center (11 GJT LOW)|
