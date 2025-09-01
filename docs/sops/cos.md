@@ -14,4 +14,4 @@ Colorado Springs's Connect ID is ```20C01```
 |134.45|Springs Clearance Delivery|
 
 ## Additional Resources
-[Colorado Springs TRACON](docs/sops/tracon/costracon.md)
+Colorado Springs TRACON
