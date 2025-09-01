@@ -15,4 +15,4 @@ Ellsworth's Connect ID is ```20D09```
 Contact Rapid City/Ellsworth Approach for TRACON services.
 
 ## Additional Resources
-Rapid City/Ellsworth TRACON
+[Rapid City/Ellsworth TRACON](/docs/sops/tracon/rcatracon.md)
