@@ -1,5 +1,5 @@
 # Denver TRACON
-The Denver TRACON facility provides terminal radar services to Denver International Airport.
+The Denver TRACON facility primarily provides terminal radar services to Denver International Airport.
 
 ## Positions
 Denver TRACON's Connect ID is ```20T01```
@@ -9,4 +9,5 @@ Denver TRACON's Connect ID is ```20T01```
 |120.35|Denver Approach (South)|
 
 ## Additional Resources
-[Denver International Airport (DEN)](docs/sops/denver.md)
+[Denver International Airport (DEN)](docs/sops/denver.md)\
+[Buckley SFB (BKF)](docs/sops/bkf.md)

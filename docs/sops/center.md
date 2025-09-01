@@ -4,8 +4,7 @@ sidebar_position: 1
 # Denver Center
 
 ## Positions
-Denver Center's Connect ID is ```20C```
-Sector 17 is primary
+Denver Center's Connect ID is ```20C``` and Sector 17 is primary position.
 |Frequency|Callsign|
 |---|---|
 |120.475|Denver Center (11 GJT LOW)|
