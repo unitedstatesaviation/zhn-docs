@@ -14,4 +14,4 @@ Aspen's Connect ID is ```20D01```
 |123.75|Aspen Clearance Delivery|
 
 ## Additional Resources
-Aspen TRACON
+[Aspen TRACON](/docs/sops/tracon/asetracon.md)
