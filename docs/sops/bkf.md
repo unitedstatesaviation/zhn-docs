@@ -12,7 +12,7 @@ Buckley's Connect ID is ```20D02```
 |121.0|Buckley Tower|
 |121.6|Buckley Ground|
 
-Contact Denver Approach for Approach Services.
+Contact Denver Approach for TRACON services.
 
 ## Additional Resources
 [Denver TRACON](docs/sops/tracon/dentracon.md)
