@@ -14,4 +14,4 @@ Denver's Connect ID is ```20B01```
 |118.75|Denver Clearance Delivery|
 
 ## Additional Resources
-[Denver TRACON](tracon/dentracon.md)
+[Denver TRACON](docs/sops/tracon/dentracon.md)

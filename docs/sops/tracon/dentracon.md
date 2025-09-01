@@ -9,4 +9,4 @@ Denver TRACON's Connect ID is ```20T01```
 |120.35|Denver Approach (South)|
 
 ## Additional Resources
-[Denver International Airport (DEN)](.../denver.md)
+[Denver International Airport (DEN)](docs/sops/denver.md)
