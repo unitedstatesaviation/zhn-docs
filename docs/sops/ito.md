@@ -1,8 +1,11 @@
-## Hilo: Hilo International Airport (ITO)
+---
+sidebar_position: 4
+---
+# Hilo: Hilo International Airport (ITO)
 
 This is a Class D airport
 
-# Positions:  
+## Positions:  
 Connect ID (10D01)
 
 | Frequency | Callsign |

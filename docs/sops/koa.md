@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Kona: Ellison Onizuka Kona International Airport at Keāhole (KOA)
 
 This is a Class D airport

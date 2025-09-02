@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Honolulu: Daniel K. Inouye International Airport (HNL)
 
 This is a Class B airport
