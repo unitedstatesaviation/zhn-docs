@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Virtual Denver ARTCC',
-  tagline: 'ZDV',
+  title: 'Virtual United States Aviation Honolulu ARTCC',
+  tagline: 'Aloha to Paradise',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/unitedstatesaviation/zdv-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/unitedstatesaviation/zhn-docs/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Virtual Denver ARTCC',
+        title: 'Honolulu ARTCC',
         logo: {
           alt: 'My Site Logo',
           src: 'img/ZDVb.png',
@@ -99,7 +99,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/unitedstatesaviation/zdv-docs',
+            href: 'https://github.com/unitedstatesaviation/zhn-docs',
             label: 'GitHub',
             position: 'right',
           },
