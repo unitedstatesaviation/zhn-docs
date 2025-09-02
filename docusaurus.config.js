@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://zdv.unitedstatesaviation.us',
+  url: 'https://honolulu.unitedstatesaviation.us',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -94,7 +94,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://charts.zdv.unitedstatesaviation.us',
+            href: 'https://charts.zhn.unitedstatesaviation.us',
             label: 'Charts',
             position: 'right',
           },
@@ -125,8 +125,8 @@ const config = {
                 href: 'https://unitedstatesaviation.us',
               },
               {
-                label: 'Honolulu',
-                href: 'https://honolulu.unitedstatesaviation.us',
+                label: 'Denver',
+                href: 'https://denver.unitedstatesaviation.us',
               },
               {
                 label: 'Indianapolis',
