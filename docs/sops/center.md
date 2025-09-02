@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 # HCF Center Control
 
 Main enroute control of HCF, **main sector is 2**

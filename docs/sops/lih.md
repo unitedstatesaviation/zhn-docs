@@ -1,3 +1,6 @@
+---
+sidebar_position: 8
+---
 # Lihue: Lihue Airport (LIH)
 
 This is a Class D airport
