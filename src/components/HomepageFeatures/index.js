@@ -22,7 +22,7 @@ function Feature({Svg, title, description}) {
         width="100%"
         height="600"
         style={{ border: 'none' }}
-        title="Denver ARTCC Airports"
+        title="Honolulu ARTCC Online Controllers"
       />
     </div>
   );
