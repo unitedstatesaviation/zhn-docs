@@ -84,7 +84,7 @@ const config = {
         title: 'Honolulu ARTCC',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/ZDVb.png',
+          src: 'img/ZHNb.png',
         },
         items: [
           {
