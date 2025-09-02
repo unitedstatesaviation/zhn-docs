@@ -2,7 +2,7 @@
 
 This is a Class B airport
 
-Positions:  
+## Positions:  
 Connect ID (10B01)
 
 | Frequency | Callsign |
