@@ -18,7 +18,7 @@ function Feature({Svg, title, description}) {
   return (
     <div style={{ textAlign: 'center', margin: '0 auto' }}>
       <iframe
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSS_G8mqe97wY_PPbUy4rN237WjqZucaO9W3VVDiLQJ7rNtiadhU09jLm9mJ6Do2xobG5sDtURjNVeK/pubhtml?widget=true&amp;headers=false"
+        src="https://docs.google.com/spreadsheets/d/1Xqw0kdb6zifq1a7fTMuKy0lUxKDPSBUHB8pQ6JC96Vg/edit?embedded=true"
         width="100%"
         height="600"
         style={{ border: 'none' }}
