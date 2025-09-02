@@ -1,10 +1,22 @@
 ---
 sidebar_position: 1
-title: Welcome
 ---
 
-# Welcome to Denver
-On the sidebar you will find all of our documentation.
+# Virtual United States Aviation Honolulu ARTCC Standard Operating Procedures
 
-## SOPs
-These docs have Denver's standard operating procedures for all of our airports, TRACONs, and center.
+**Introduction**  
+	In this document you can see positions and connection data for the Honolulu ARTCC.
+
+**Airports**  
+*Class B:*  
+Honolulu (HNL)\*  
+*Class C:*  
+Kahului (OGG)  
+*Class D:*  
+Hilo (ITO)  
+Kona (KOA)  
+Kalaeloa (JRF)  
+Molokai (MKK)  
+Lihue (LIH)
+
+\*Tier 2 Airport
