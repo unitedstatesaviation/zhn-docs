@@ -1,6 +1,6 @@
 # Honolulu TRACON
 
-Provides service for HNL, JRF, HHI
+Provides service for HNL
 
 ## Positions:  
 Connect ID (10T01)

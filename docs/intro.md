@@ -12,11 +12,5 @@ sidebar_position: 1
 Honolulu (HNL)\*  
 *Class C:*  
 Kahului (OGG)  
-*Class D:*  
-Hilo (ITO)  
-Kona (KOA)  
-Kalaeloa (JRF)  
-Molokai (MKK)  
-Lihue (LIH)
 
 \*Tier 2 Airport
